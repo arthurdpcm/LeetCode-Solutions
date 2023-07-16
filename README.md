@@ -1,2 +1,3 @@
-# pySolutions
-Repository for problem solutions in Python
+# LeetCode Solutions
+Here you can find solutions for LeetCode problems.
+
